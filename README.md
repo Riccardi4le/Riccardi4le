@@ -1,9 +1,7 @@
-Alessandro Riccardi
-
 🎓 Data Scientist | 💻 Appassionato di Machine Learning e AI 
 
 ## Chi sono
-Specialista in Data Science in formazione presso l'Università di Roma Tor Vergata, con un focus su Machine Learning e un master avanzato in Data science presso la Neural Academy. Attraverso queste esperienze, ho sviluppato competenze significative nella trasformazione di grandi dataset in soluzioni pratiche, migliorando l'esperienza del cliente tramite modelli predittivi avanzati. Sono altamente qualificato nella raccolta, analisi e interpretazione di dati, sviluppo di modelli predittivi e gestione dei dati.
+Mi chiamo Alessandro Riccardi e sono uno specialista in Data Science in formazione presso l'Università di Roma Tor Vergata, con un focus su Machine Learning e un master avanzato in Data science presso la Neural Academy. Attraverso queste esperienze, ho sviluppato competenze significative nella trasformazione di grandi dataset in soluzioni pratiche, migliorando l'esperienza del cliente tramite modelli predittivi avanzati. Sono altamente qualificato nella raccolta, analisi e interpretazione di dati, sviluppo di modelli predittivi e gestione dei dati.
 
 🌱 Attualmente sto lavorando su progetti di Deep Learning e continuo a formarmi in Data Science.
 
@@ -27,7 +25,7 @@ Specialista in Data Science in formazione presso l'Università di Roma Tor Verga
 - **Laurea in Informatica** - Università di Roma Tor Vergata (in corso)
 
 ## Progetti in evidenza
-- [Data Science Repository](https://github.com/tuo-username/data-science): Raccolta di progetti di data science con focus su analisi dei dati e modelli predittivi.
+- [Data Science Repository](https://github.com/Riccardi4le/Data-science): Raccolta di progetti di data science con focus su analisi dei dati e modelli predittivi.
 - **Analisi della Soddisfazione dei Passeggeri**: Analisi dei fattori che influenzano l'esperienza di volo tramite modelli di Machine Learning come Random Forest e XGBoost per migliorare le strategie aziendali.
 
 ## Certificazioni
