@@ -1,6 +1,6 @@
 Alessandro Riccardi
 
-🎓 Data Scientist | 💻 Appassionato di Machine Learning e AI | 
+🎓 Data Scientist | 💻 Appassionato di Machine Learning e AI 
 
 ## Chi sono
 Specialista in Data Science in formazione presso l'Università di Roma Tor Vergata, con un focus su Machine Learning e un master avanzato in Data science presso la Neural Academy. Attraverso queste esperienze, ho sviluppato competenze significative nella trasformazione di grandi dataset in soluzioni pratiche, migliorando l'esperienza del cliente tramite modelli predittivi avanzati. Sono altamente qualificato nella raccolta, analisi e interpretazione di dati, sviluppo di modelli predittivi e gestione dei dati.
