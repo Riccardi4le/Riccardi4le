@@ -26,7 +26,9 @@ Mi chiamo Alessandro Riccardi e sono uno specialista in Data Science in formazio
 
 ## Progetti in evidenza
 - [Data Science Repository](https://github.com/Riccardi4le/Data-science): Raccolta di progetti di data science con focus su analisi dei dati e modelli predittivi.
-- **Analisi della Soddisfazione dei Passeggeri**: Analisi dei fattori che influenzano l'esperienza di volo tramite modelli di Machine Learning come Random Forest e XGBoost per migliorare le strategie aziendali.
+- [Progetto Aerial Satisfy](https://github.com/Riccardi4le/Data-science/blob/main/notebooks/Progetto_Aerial_Satisfy.ipynb): Analisi della soddisfazione dei passeggeri utilizzando tecniche di Machine Learning.
+- [Progetto Email-Phishing Detection](https://github.com/Riccardi4le/Data-science/blob/main/notebooks/Progetto_Email_Phishing_Detection.ipynb): Rilevamento di email di phishing con modelli predittivi avanzati.
+- [Progetto Prestiti](https://github.com/Riccardi4le/Data-science/blob/main/notebooks/Progetto_Prestiti.ipynb): Analisi e modellazione del rischio nei prestiti finanziari.
 
 ## Certificazioni
 - Corso Base di Wine Tasting e Introduzione - Livello 1 | AccademiaVino Srl
