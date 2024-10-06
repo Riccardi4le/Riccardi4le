@@ -1,4 +1,4 @@
-🎓 Data Scientist | 💻 Appassionato di Machine Learning e AI 
+🎓 Data Scientist | 💻 Passionate about Machine Learning and AI
 
 About Me
 My name is Alessandro Riccardi, and I am a Data Science specialist in training at the University of Rome Tor Vergata, focusing on Machine Learning and holding an advanced master's in Data Science from Neural Academy. Through these experiences, I have developed significant skills in transforming large datasets into practical solutions, enhancing customer experience through advanced predictive models. I am highly qualified in data collection, analysis, and interpretation, predictive model development, and data management.
