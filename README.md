@@ -16,7 +16,6 @@ Skills
 - Programming Languages: Python, C/C++, SQL, Java (basic), HTML (basic)
 - Data Preprocessing, Model Evaluation, and Selection
 - Graphic Design (Canva)
-- Work Experience
 
 Work Experience
 - Operations Office Assistant at Private Jet International Srl (2019-2020): Coordination and planning of private flights, operational management, and communication with pilots and crew.
