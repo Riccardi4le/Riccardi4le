@@ -21,6 +21,7 @@ Work Experience
 - Operations Office Assistant at Private Jet International Srl (2019-2020): Coordination and planning of private flights, operational management, and communication with pilots and crew.
 
 Education
+- Certification in Generative AI with LLM - Deeplearning.AI
 - Online Master's in Data Science - Neural Academy (02/09/2024)
 - Bachelor's Degree in Computer Science - University of Rome Tor Vergata (ongoing)
 
