@@ -28,7 +28,7 @@ Education
 ## Progetti in evidenza
 - [Data Science Repository](https://github.com/Riccardi4le/Data-science): Collection of data science projects focusing on data analysis and predictive models.
 - [Progetto Aerial Satisfy](https://github.com/Riccardi4le/Data-science/blob/main/notebooks/Progetto_Aerial_Satisfy.ipynb): Analysis of passenger satisfaction using Machine Learning techniques.
-- [Progetto Email-Phishing Detection](https://github.com/Riccardi4le/Data-science/blob/main/notebooks/Progetto_Email_Phishing_Detection.ipynb): Detection of phishing emails with advanced predictive models.
+- [Progetto Email-Phishing Detection](https://github.com/Riccardi4le/Data-science/blob/main/notebook/Progetto%20Email-Phishing%20Detection.ipynb): Detection of phishing emails with advanced predictive models.
 - [Progetto Prestiti](https://github.com/Riccardi4le/Data-science/blob/main/notebooks/Progetto_Prestiti.ipynb): Analysis and modeling of risk in financial loans.
 - [Progetto Analisi alimentare e sprechi](https://github.com/Riccardi4le/Data-science/blob/main/notebook/Food%20analysis.ipynb): Analyzing food waste and global malnutrition correlations.
 - [AI Paper Assistent](https://github.com/Riccardi4le/ai-paper-assistant) AI Paper Assistant (RAG) is a web app full-stack that integrate ML and LLM for analize scientific paper in AI/Computer science
