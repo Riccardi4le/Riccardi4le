@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=130&section=header" width="100%"/>
+
 <div align="center">
 
 # Alessandro Riccardi
@@ -25,7 +27,7 @@ My focus: making AI deliver real results, not slide decks.
 ## Stack
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=white&label=&color=0d1117" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" />
@@ -67,3 +69,13 @@ If you have a problem that AI might solve, let's talk.
 <a href="mailto:Riccardi4le@gmail.com">
   <img src="https://img.shields.io/badge/Send%20a%20message-0d1117?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riccardi4le/Riccardi4le/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riccardi4le/Riccardi4le/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Riccardi4le/Riccardi4le/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=80&section=footer" width="100%"/>
