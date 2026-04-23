@@ -24,29 +24,32 @@ My focus: making AI deliver real results, not slide decks.
 
 ---
 
-## Stack
+## Featured Projects
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-0d1117?style=flat-square&logo=react&logoColor=white" />
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Riccardi4le/ai-paper-assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riccardi4le&repo=ai-paper-assistant&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Riccardi4le/Data-science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Riccardi4le&repo=Data-science&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Side projects** — [Benchy](https://github.com/Riccardi4le/Benchy) (React Native app to discover benches) · [Shrooms](https://github.com/Riccardi4le/Shrooms) (meet in person, leave nothing behind)
 
 ---
 
-## Projects
+## Stack
 
-**[ai-paper-assistant](https://github.com/Riccardi4le/ai-paper-assistant)** — Full-stack RAG app to search and query AI/CS scientific papers using LLMs
-
-**[Data-science](https://github.com/Riccardi4le/Data-science)** — End-to-end ML projects: classification, NLP, risk modeling, and data analysis
-
-**[Benchy](https://github.com/Riccardi4le/Benchy)** — Mobile app to discover and share favourite benches · React Native · Node.js · MongoDB
-
-**[Shrooms](https://github.com/Riccardi4le/Shrooms)** — Meet in person. Leave nothing behind.
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,postgres,react&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" height="48" />
 
 ---
 
