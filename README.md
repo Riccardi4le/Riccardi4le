@@ -72,7 +72,7 @@ Aerial Satisfy · Risk Modeling · Email Phishing Detection · Food Analysis
 
 ---
 
-## Side Projects
+## Fun Side Project
 
 - **[Benchy](https://github.com/Riccardi4le/Benchy)** — React Native app to discover benches around you
 - **[Shrooms](https://github.com/Riccardi4le/Shrooms)** — meet in person, leave nothing behind
