@@ -28,6 +28,8 @@ My focus: turning real problems into reliable AI systems, not slide decks.
 
 A multi-angle attack on academic paper quality. Each agent tackles a different dimension.
 
+[**▶ Live demo — all three agents in one Space** ↗](https://huggingface.co/spaces/Riccardi4le/paper-verifier-suite)
+
 <table>
   <tr>
     <td width="50%">
@@ -56,8 +58,8 @@ A multi-angle attack on academic paper quality. Each agent tackles a different d
 </table>
 
 - **Adversarial Reviewer Agent** — hostile peer reviewer detecting p-hacking, unsupported claims and methodological gaps · *LangGraph + Groq*
-- **Citation Genealogy Agent** — traces citation chains to the primary source and scores distortion at each hop · *LangGraph + OpenAlex*
-- **Cross-Paper Contradiction Agent** — clusters claims across N papers and diagnoses why they conflict · *LangGraph + Ollama + HDBSCAN*
+- **Citation Genealogy Agent** — traces citation chains to the primary source and scores distortion at each hop · *LangGraph + Groq + OpenAlex*
+- **Cross-Paper Contradiction Agent** — clusters claims across N papers and diagnoses why they conflict · *LangGraph + Groq + HDBSCAN*
 - **AI Paper Assistant** — full-stack RAG over arXiv · [**Live demo on HF Spaces** ↗](https://huggingface.co/spaces/Riccardi4le/ai-paper-assistant)
 
 ---
